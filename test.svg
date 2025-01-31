@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="985" height="700" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" font-size="16px">
 <style>
 text, tspan { font-family: monospace; white-space: pre; }
 .key { fill: #953800; }
@@ -9,6 +9,8 @@ text, tspan { font-family: monospace; white-space: pre; }
 </style>
 
 <rect width="100%" height="100%" fill="#161b22" rx="15"/>
+
+<!-- ASCII Art (Left Side) -->
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">:xxxxxxxxxxxxxxxxx+++++;+;:;++++xxx+++++x++++++++++.</tspan>
 <tspan x="15" y="50">:xxxxxxxxxxxx++++++xXxx$@@@@x+;;+;+++++++++++++++++.</tspan>
@@ -45,29 +47,31 @@ text, tspan { font-family: monospace; white-space: pre; }
 <tspan x="15" y="670">.xxx+;;x@$xXx+;;+xXXxxxxxXXX$$$$XXXxx+;:::;;++xxx++ </tspan>
 <tspan x="15" y="690">.xxXX+;:;;:. .;xx+xXX$$@$XXxxxxxx++;;;;;;++++++++++.</tspan>
 </text>
-<text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">jordan.hymas</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">MacOS, Windows 11, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">23 years, 5 months, 29 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">TTM Technologies, Inc.</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">, VSCode 1.96.0</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C/C++C#, Python, JavaScript, C++</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, Xaml, SQL, JSON</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value"> Building Projects, Local AI</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value"> Homelab, Server Development </tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value"> Basketball, Workout</tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">jordanhymas24@gmail.com</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Yeti@InfiniteVoid</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">jordan-hymas</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">jordan.hymas</tspan>
-<tspan x="390" y="410">- Extra Stats</tspan> -—————————————————————————————————————————-—-=
-<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">{}</tspan>.<tspan class="key">{}</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">{}</tspan>
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">{}</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">{}</tspan>
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">{}</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">jordan.hymas</tspan>
+
+<!-- Text Information (Right Side) -->
+<text x="600" y="30" fill="#c9d1d9">
+<tspan x="600" y="30">jordan.hymas</tspan> -———————————————————————————————————————————-—-
+<tspan x="600" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">MacOS, Windows 11, Linux</tspan>
+<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">23 years, 5 months, 29 days</tspan>
+<tspan x="600" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">TTM Technologies, Inc.</tspan>
+<tspan x="600" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
+<tspan x="600" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">, VSCode 1.96.0</tspan>
+<tspan x="600" y="150" class="cc">. </tspan>
+<tspan x="600" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C/C++C#, Python, JavaScript, C++</tspan>
+<tspan x="600" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, Xaml, SQL, JSON</tspan>
+<tspan x="600" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English</tspan>
+<tspan x="600" y="230" class="cc">. </tspan>
+<tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value"> Building Projects, Local AI</tspan>
+<tspan x="600" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value"> Homelab, Server Development </tspan>
+<tspan x="600" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value"> Basketball, Workout</tspan>
+<tspan x="600" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="600" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">jordanhymas24@gmail.com</tspan>
+<tspan x="600" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Yeti@InfiniteVoid</tspan>
+<tspan x="600" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">jordan-hymas</tspan>
+<tspan x="600" y="390" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">jordan.hymas</tspan>
+<tspan x="600" y="410">- Extra Stats</tspan> -—————————————————————————————————————————-—-=
+<tspan x="600" y="430" class="cc">. </tspan><tspan class="key">{}</tspan>.<tspan class="key">{}</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">{}</tspan>
+<tspan x="600" y="450" class="cc">. </tspan><tspan class="key">{}</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">{}</tspan>
+<tspan x="600" y="470" class="cc">. </tspan><tspan class="key">{}</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">jordan.hymas</tspan>
 </text>
 </svg>
