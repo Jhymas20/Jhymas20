@@ -10,49 +10,14 @@ text, tspan { font-family: monospace; white-space: pre; }
 
 <rect width="100%" height="100%" fill="#161b22" rx="15"/>
 
-<!-- ASCII Art (Left Side) -->
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">:xxxxxxxxxxxxxxxxx+++++;+;:;++++xxx+++++x++++++++++.</tspan>
-<tspan x="15" y="50">:xxxxxxxxxxxx++++++xXxx$@@@@x+;;+;+++++++++++++++++.</tspan>
-<tspan x="15" y="70">:xxxxxxxxxxx+++XXx$@$$$@@;$$x@@@@x+++++++++++++++++ </tspan>
-<tspan x="15" y="90">:xxxxxxxxxx++x$@@@@@@@@$@$$X$$XXX+X$x++++++++++++++ </tspan>
-<tspan x="15" y="110">:++++xx+x++;x$@@@$@$$@@@@@@@@$$xXx$$x;:;+++++++;+++ </tspan>
-<tspan x="15" y="130">:xxxxxx+++x$@@$$$@@@@@@@@@@X@@@X$@$$xX@$:;+;+++++;; </tspan>
-<tspan x="15" y="150">.++++++++XXxX$@@@@@@$X@@@@@@@@@@$XXX+;X@+;+++++;;++ </tspan>
-<tspan x="15" y="170">:xxxxx++X@X$@@@@@;  .      .xX@@@@@@$x+++;;;;;;+;;; </tspan>
-<tspan x="15" y="190">.+++++++$$$@@@$:..:::::::::.. .:+X@@$X++++;;++;;;+; </tspan>
-<tspan x="15" y="210">.+++++++@@X$X  .::;;;;;::::::;:..   :$@@$x;;;;;;;;; </tspan>
-<tspan x="15" y="230">.++++++x@XxX;       ..:::::::..   .  .+XX;;;;;+;;;; </tspan>
-<tspan x="15" y="250">.+++++++X@$+   ;XX$$X;. .    ..      :$X;;;;;;;;;;; </tspan>
-<tspan x="15" y="270">.++++++;+$++$@@XxxxX$@XxX;x@@@@@@$$$x:;+;;;;;;;;;;; </tspan>
-<tspan x="15" y="290">.++++++++x+$$Xx$@X$@$x@$$X@;X$@$Xx;:@@;:;;;;;;;;;;; </tspan>
-<tspan x="15" y="310">.+++++++;;++xx+xXXXX$x@x.;@+@X@Xx@x;xX;.;;;;;;;;;;; </tspan>
-<tspan x="15" y="330"> ;;;;;++;:; .+::::;;;xX:: $::++++;;;. .:;+;;;;;;;;; </tspan>
-<tspan x="15" y="350">:xxxxx++;X+  :+x+;;+$+:;;  @+:.::.:. ..:+;;;;;;;;;; </tspan>
-<tspan x="15" y="370"> x$;:@$$;.x;..::;:;+;::::.  xXxx:    ;x:;;;;;;;;;;; </tspan>
-<tspan x="15" y="390"> X:X:$$$x;x+:;;::;+xX$$XXxXx+;;:::..    ;;;;;;;;;;; </tspan>
-<tspan x="15" y="410"> :;:++;++++;:;;;+;;...::::::;++;:..;@+:;+;;;;;;;;;; </tspan>
-<tspan x="15" y="430"> +x+++;;+;;::;;:;+@@@$@@$$XX;+;;... :x+;;;+;;;;;;;; </tspan>
-<tspan x="15" y="450"> .         .;;;;:::::;:;;:..;+;.  . .x;;;::+++;;;;; </tspan>
-<tspan x="15" y="470"> . ::::::..:+;;;;;;;;;+++;;:;:: ... .x::x;   .:;+;; </tspan>
-<tspan x="15" y="490"> :.:...... :+:;;;;:::;;;:;;... .:.   ;:+$+:.    .;; </tspan>
-<tspan x="15" y="510"> :.::......;+.;+;+;;;::::. ...:;: :@@@@Xx.  .... .; </tspan>
-<tspan x="15" y="530"> :.:::::.. :+.;;xx+++++++++xxXX:. .@@X;;:::::.... : </tspan>
-<tspan x="15" y="550"> ..:....   ...;++;++xXXXX$$X+::::  :Xx;::::::.   .; </tspan>
-<tspan x="15" y="570"> :.:::.:xXx;+;:;+;:.::;;:.   .::.:xX+::;;;;:::..    </tspan>
-<tspan x="15" y="590"> :.::..:;+x$@x :+;;:;:.. .::::::;xx++++++;;;;;;;;;; </tspan>
-<tspan x="15" y="610"> . ... .;;++x$+.:;+;;+;:::;;+xXxXx+++++++++++xX@$X+ </tspan>
-<tspan x="15" y="630"> :.:..;+;+++++XX+::;;;;+xxxXxxx++++++++xX$$$$Xx;.   </tspan>
-<tspan x="15" y="650"> ::::x@@x:+xxxxXXx++xxxxx++++++++xXXX$@$Xx;:. ..:;; </tspan>
-<tspan x="15" y="670">.xxx+;;x@$xXx+;;+xXXxxxxxXXX$$$$XXXxx+;:::;;++xxx++ </tspan>
-<tspan x="15" y="690">.xxXX+;:;;:. .;xx+xXX$$@$XXxxxxxx++;;;;;;++++++++++.</tspan>
-</text>
+<!-- Image Placeholder (Left Side, adjustable) -->
+<image href="me.png" x="15" y="30" width="500" height="660" preserveAspectRatio="xMinYMin meet"/>
 
 <!-- Text Information (Right Side) -->
 <text x="600" y="30" fill="#c9d1d9">
 <tspan x="600" y="30">jordan.hymas</tspan> -———————————————————————————————————————————-—-
 <tspan x="600" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">MacOS, Windows 11, Linux</tspan>
-<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................................. </tspan><tspan class="value" id="age_data">Since Birth, 23</tspan>
+<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value" id="age_data">Since Birth, 23</tspan>
 <tspan x="600" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">TTM Technologies, Inc.</tspan>
 <tspan x="600" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">popped</tspan>
 <tspan x="600" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Visual Studio, VSCode, Xcode</tspan>
