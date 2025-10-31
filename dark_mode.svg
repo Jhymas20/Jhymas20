@@ -16,52 +16,27 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">         ,%g@M%@%%@N%Nw,,                   </tspan>
-<tspan x="15" y="50">      ,/%,M*|`||*%gNM=]mM%g||%N,             </tspan>
-<tspan x="15" y="70">    ,%%p!``  '! |''` '''|||jhlj%w           </tspan>
-<tspan x="15" y="90">   @,@L `    ,,        ''!`|j%M]%M         </tspan>
-<tspan x="15" y="110"> Wg]j'`      , ,    `.     ''''|%Wg       </tspan>
-<tspan x="15" y="130"> %/{||]     @@@@pp.             |||||      </tspan>
-<tspan x="15" y="150"> '` ']    @@@@@@@@@@p    , , ,'''` `        </tspan>
-<tspan x="15" y="170">  , :]%%@@@@@%%%%%%k%h '*||mkr     *       </tspan>
-<tspan x="15" y="190">  '  j%M`      |jkk'   ~nrn=|i    ;`       </tspan>
-<tspan x="15" y="210">   !  jrr*^`             `"!  L'':!   </tspan>
-<tspan x="15" y="230">   j  lp;,.  ,/ @@    ,;\nmy "  ,~        </tspan>
-<tspan x="15" y="250">   i r @@@@mmHM @@@@ `^****M*,p ;,         </tspan>
-<tspan x="15" y="270">    | ]@@@HHH]g@M%%%%%H,jmgpmb  j         </tspan>
-<tspan x="15" y="290">     ;;%%%%k%@[,.n|;.;j%%k|%k%';         </tspan>
-<tspan x="15" y="310">      H|%k%%%j%k||,;;j;!!'|%ij          </tspan>
-<tspan x="15" y="330">      "djjmkL,"]][,,,,wwxw;|kj'           </tspan>
-<tspan x="15" y="350">        %;%m%%%%M%M|%%jkkii|[            </tspan>
-<tspan x="15" y="370">          |jmH@@@b%%kkmk%|![             </tspan>
-<tspan x="15" y="390">          p|j%%%jkk||j*'`;j[             </tspan>
-<tspan x="15" y="410">          @g|'''`'''  ` ,;j%k             </tspan>
-<tspan x="15" y="430">         @@@mgmp;,,,,:;jj%%k%             </tspan>
-<tspan x="15" y="450">        @@@@@@%%kgki!|jjjj%k%@           </tspan>
-<tspan x="15" y="470">. ^['' %@@@@HH%b%k{illljkjj%%%% ; `,.      </tspan>
-<tspan x="15" y="490">=[' ` . %HH%%%% JORDAN jjj%kk%".   `'i</tspan>
-</text>
-<text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">jordan.hymas</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">MacOS, Windows 11, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................................. </tspan><tspan class="value" id="age_data">Since Birth, 23</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Lewiston, ID</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Sanders</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Visual Studio, VSCode, Xcode</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">C, C++, C#, Python, JavaScript</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">HTML, CSS, XAML, SQL, JSON</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">English</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ... </tspan><tspan class="value"> Building Projects, Homelab/Local AI </tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Basketball, Workout</tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">JordanHymas24@gmail.com</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Domain</tspan>.<tspan class="key">Name</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">@InfiniteVoid</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">yeti.dev</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">jordan-hymas</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">jordan.hymas</tspan>
-<tspan x="390" y="450">- Still Updating Stats</tspan> -—————————————————————————————————————————-—-
+
+<text x="120" y="60" fill="#c9d1d9">
+<tspan x="100" y="30">jordan.hymas</tspan> -——————————————————————————————————————————————————————————————————
+<tspan x="100" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................................... </tspan><tspan class="value">MacOS, Windows, Linux</tspan>
+<tspan x="100" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .......................................................... </tspan><tspan class="value" id="age_data">Since Birth</tspan>
+<tspan x="100" y="90" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ....................................................... </tspan><tspan class="value">Lewiston, ID</tspan>
+<tspan x="100" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .............................................................. </tspan><tspan class="value">Sanders</tspan>
+<tspan x="100" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...........................................  </tspan><tspan class="value">Visual Studio, VSCode, Xcode</tspan>
+<tspan x="100" y="150" class="cc">. </tspan>
+<tspan x="100" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">C, C++, C#, Python, TypeScript</tspan>
+<tspan x="100" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">HTML, CSS, XAML, SQL, JSON</tspan>
+<tspan x="100" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Misc</tspan>:<tspan class="cc"> ...................................................... </tspan><tspan class="value">English</tspan>
+<tspan x="100" y="230" class="cc">. </tspan>
+<tspan x="100" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value"> Building Projects, Homelab/Local AI, Pen-testing</tspan>
+<tspan x="100" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Basketball, Working out</tspan>
+<tspan x="100" y="310">- Contact</tspan> -———————————————————————————————————————————-—-——————————————————————— 
+<tspan x="100" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">JordanHymas24@gmail.com</tspan>
+<tspan x="100" y="350" class="cc">. </tspan><tspan class="key">Domain</tspan>.<tspan class="key">Name</tspan>:<tspan class="cc"> ................................................... </tspan><tspan class="value">@InfiniteVoid</tspan>
+<tspan x="100" y="370" class="cc">. </tspan><tspan class="key">TikTok</tspan>:<tspan class="cc"> .............................................................. </tspan><tspan class="value">node.io</tspan>
+<tspan x="100" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................................................... </tspan><tspan class="value">jordan-hymas</tspan>
+<tspan x="100" y="410" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ...................................................... </tspan><tspan class="value">jordan.hymas</tspan>
+<tspan x="100" y="450">- Still Updating Stats</tspan> -————————————————————————————————————————————————————————
 </text>
 </svg>
